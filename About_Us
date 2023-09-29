@@ -1,0 +1,92 @@
+<html lang="en">
+  <head>
+    <title>AboutUs</title>
+    <base href="/media/" />
+  </head>
+  <body>
+    <table width="100%" bgcolor="yellow">
+      <tr>
+        <td><img src="images/logo/site_logos.png" width="150" /></td>
+        <td align="center"><a href="/Assignment/Sca_Home.html">Home</a></td>
+        <td align="center">
+          <a href="/Assignment/Sca_AboutUs.html">About us</a>
+        </td>
+        <td align="center">
+          <a href="/Assignment/Sca_Batches.html">Batches</a>
+        </td>
+        <td align="center">
+          <a href="/Assignment/Sca_contact.html">Contact</a>
+        </td>
+      </tr>
+    </table>
+    <img src="images/Contact-us.jpeg" width="100%" />
+    <h1 align="center"><em>About Sharma Computer Academy(SCAlive)</em></h1>
+    <hr color="black" align="center" width="50%" />
+    <p align="center">
+      We, at SCA, are a group of proficient and accomplished software
+      professionals, who are trying to achieve a mutual goal, the goal of
+      "Casting talented into the most demanded one's". SCA is a premier
+      configured squad, which camed into the market in 1998. Since then, it has
+      been growing as a skeleton for the pupil who has a sober approach towards
+      IT(Information Technology) and it's training. It is determined to set high
+      standards in the IT industry.
+    </p>
+    <p align="center">
+      There are several activities, which are being carried out simultaneously
+      in order to acquire this conjoint ambition. We tend to offer courses in
+      the hottest technological areas like C, C++, ORACLE, JAVA, ADVANCE JAVA,
+      ANDROID, PHP,React JS, Node JS IPv6 etc., which will benefit the learners
+      in the fields of project development.
+    </p>
+    <p align="center">
+      Our advancing team works towards the enhancement of the idiosyncratic
+      features of the projects as per the industrial requirements. We are
+      working for the promotion of the current machinery in IT by providing a
+      substantial platform to the beginners. We are growing day by day by
+      building national and international tie-ups in order to deliver the
+      knowledge. After all, since the aggrandizement, SCA has tried to create a
+      niche for itself on the frontiers of education and software augmentation.
+    </p>
+    <br />
+    <br />
+    <br />
+    <table width="100%" bgcolor="#D6B10C">
+      <tr align="center">
+        <td><img src="images/logo/site_logos.png" width="150" /></td>
+        <td><h2>Get Our Courses</h2></td>
+        <td><h2>Download App Now</h2></td>
+      </tr>
+      <tr align="center">
+        <td>
+          <br />
+          SCAlive is a premier education <br />
+          institute.SCAlive is a pioneer <br />
+          in providing career-oriented <br />
+          courses to aspiring students <br />
+          and professtional since 1998. <br />
+        </td>
+        <td>
+          <a href="#">C Programming</a> <br />
+          <br />
+          <a href="#">C++ Programming</a> <br />
+          <br />
+          <a href="#">Java Programming</a> <br />
+          <br />
+          <a href="#">Python Programming</a> <br />
+        </td>
+        <td>
+          <a href="#"><img src="images/app/app_store.png" width="150px" /></a>
+          <br />
+          <br />
+          <a href="#"><img src="images/app/google_play.png" width="150px" /></a>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" bgcolor="yellow">
+      <tr align="center">
+        <td>&copy Copyright SCAlive all right reserved.</td>
+        <td>Developed by <a href="#">Ashmit Sharma</a></td>
+      </tr>
+    </table>
+  </body>
+</html>
