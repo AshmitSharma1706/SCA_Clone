@@ -1,0 +1,141 @@
+<mtml lang="en">
+  <head>
+    <title>Sca</title>
+    <base href="/media/" />
+  </head>
+  <body>
+    <table width="100%" bgcolor="yellow">
+      <tr>
+        <td><img src="images/logo/site_logos.png" width="150" /></td>
+        <td align="center"><a href="/Assignment/Sca_Home.html">Home</a></td>
+        <td align="center">
+          <a href="/Assignment/Sca_AboutUs.html">About us</a>
+        </td>
+        <td align="center">
+          <a href="/Assignment/Sca_Batches.html">Batches</a>
+        </td>
+        <td align="center">
+          <a href="/Assignment/Sca_contact.html">Contact</a>
+        </td>
+      </tr>
+    </table>
+    <img src="images/course-banner.jpeg" width="100%" />
+    <table width="100%">
+      <tr align="center">
+        <td>
+          <h1><em>Our Upcoming Batches</em></h1>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" cellpadding="5px" cellspacing="5px">
+      <tr align="center" bgcolor="yellow">
+        <td>S.No.</td>
+        <td>Batch</td>
+        <td>Starting Date</td>
+        <td>Instructor</td>
+        <td>Time</td>
+        <td>Branch</td>
+        <td>Mode</td>
+        <td>Telegram</td>
+      </tr>
+      <tr align="center">
+        <td>1</td>
+        <td>Node JS</td>
+        <td>12May2023</td>
+        <td>Mr. Sachin Kapoor</td>
+        <td>9:30pm</td>
+        <td>Indrapuri</td>
+        <td>Online</td>
+        <td><a href="#">Click here to join</a></td>
+      </tr>
+      <tr align="center" bgcolor="lightgrey">
+        <td>2</td>
+        <td>Java FullStack</td>
+        <td>13May2023</td>
+        <td>Mr. Paramjeet sir</td>
+        <td>8:30pm</td>
+        <td>Indrapuri</td>
+        <td>Offline</td>
+        <td><a href="#">Click here to join</a></td>
+      </tr>
+      <tr align="center">
+        <td>3</td>
+        <td>Java FullStack</td>
+        <td>14May2023</td>
+        <td>Mr. Sachin Kapoor</td>
+        <td>7:30pm</td>
+        <td>Indrapuri</td>
+        <td>Offline</td>
+        <td><a href="#">Click here to join</a></td>
+      </tr>
+      <tr align="center" bgcolor="lightgrey">
+        <td>4</td>
+        <td>C/C++/DSA</td>
+        <td>17May2023</td>
+        <td>Mr. Sachin Kapoor</td>
+        <td>7:00pm</td>
+        <td>Indrapuri</td>
+        <td>Offline</td>
+        <td><a href="#">Click here to join</a></td>
+      </tr>
+      <tr align="center">
+        <td>5</td>
+        <td>Python</td>
+        <td>20May2023</td>
+        <td>Mr. Sachin Kapoor</td>
+        <td>8:00pm</td>
+        <td>Indrapuri</td>
+        <td>Offline</td>
+        <td><a href="#">Click here to join</a></td>
+      </tr>
+      <tr align="center" bgcolor="lightgrey">
+        <td>6</td>
+        <td>Java Project</td>
+        <td>22May2023</td>
+        <td>Mr. Sachin Kapoor</td>
+        <td>9:00pm</td>
+        <td>Indrapuri</td>
+        <td>Online</td>
+        <td><a href="#">Click here to join</a></td>
+      </tr>
+    </table>
+    <table width="100%" bgcolor="#D6B10C">
+      <tr align="center">
+        <td><img src="images/logo/site_logos.png" width="150" /></td>
+        <td><h2>Get Our Courses</h2></td>
+        <td><h2>Download App Now</h2></td>
+      </tr>
+      <tr align="center">
+        <td>
+          <br />
+          SCAlive is a premier education <br />
+          institute.SCAlive is a pioneer <br />
+          in providing career-oriented <br />
+          courses to aspiring students <br />
+          and professtional since 1998. <br />
+        </td>
+        <td>
+          <a href="#">C Programming</a> <br />
+          <br />
+          <a href="#">C++ Programming</a> <br />
+          <br />
+          <a href="#">Java Programming</a> <br />
+          <br />
+          <a href="#">Python Programming</a> <br />
+        </td>
+        <td>
+          <a href="#"><img src="images/app/app_store.png" width="150px" /></a>
+          <br />
+          <br />
+          <a href="#"><img src="images/app/google_play.png" width="150px" /></a>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" bgcolor="yellow">
+      <tr align="center">
+        <td>&copy Copyright SCAlive all right reserved.</td>
+        <td>Developed by <a href="#">Ashmit Sharma</a></td>
+      </tr>
+    </table>
+  </body>
+</mtml>
