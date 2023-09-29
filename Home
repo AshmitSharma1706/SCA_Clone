@@ -1,0 +1,182 @@
+<html lang="en">
+  <head>
+    <title>Sca</title>
+    <base href="/media/" />
+  </head>
+  <body>
+    <table width="100%" bgcolor="yellow">
+      <tr>
+        <td><img src="images/logo/site_logos.png" width="150" /></td>
+        <td align="center"><a href="/Assignment/Sca_Home.html">Home</a></td>
+        <td align="center">
+          <a href="/Assignment/Sca_AboutUs.html">About us</a>
+        </td>
+        <td align="center">
+          <a href="/Assignment/Sca_Batches.html">Batches</a>
+        </td>
+        <td align="center">
+          <a href="/Assignment/Sca_contact.html">Contact</a>
+        </td>
+      </tr>
+    </table>
+    <img src="images/course-banner.jpeg" width="100%" />
+    <table width="100%" height="400">
+      <tr align="center">
+        <td rowspan="2">
+          <h3>
+            Get Everything You <br />
+            Need..!
+          </h3>
+        </td>
+        <td>
+          <img src="images/icon/icon_career.png" width="75" /><br /><b
+            >Build Career</b
+          >
+          <br />Everything you need to land job
+        </td>
+        <td>
+          <img src="images/icon/icon_subjects.png" width="75" /><br /><b
+            >Explore skills</b
+          >
+          <br />Everything you need to land job
+        </td>
+      </tr>
+      <tr align="left">
+        <td>
+          <img src="images/icon/icon_skills.png" width="75" /><br /><b
+            >Gain a skills</b
+          >
+          <br />Everything you need to land job
+        </td>
+        <td>
+          <img src="images/icon/icon_knowledge.png" width="75" /><br /><b
+            >Share knowledge</b
+          >
+          <br />Everything you need to land job
+        </td>
+      </tr>
+    </table>
+    <br />
+    <hr color="black" />
+    <video
+      src="video/sca_video.mp4"
+      controls
+      autoplay
+      muted
+      width="100%"
+      height="450px"
+    ></video>
+    <h2><em>Most popular courses</em></h2>
+    <hr color="blue" width="25%" align="left" />
+    <table cellpadding="5">
+      <tr>
+        <td>
+          <img src="images/courses/c_programming.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>C Programming Course</h3>
+        </td>
+        <td>
+          <img src="images/courses/cpp_programming.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>C++ Programming Course</h3>
+        </td>
+        <td>
+          <img src="images/courses/java_programming.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>Java Programming Course</h3>
+        </td>
+        <td>
+          <img src="images/courses/python_programming.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>Python Programming Course</h3>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="images/courses/reactjs.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>React JS Development</h3>
+        </td>
+        <td>
+          <img src="images/courses/oracle.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>Oracle DataBase</h3>
+        </td>
+        <td>
+          <img src="images/courses/ds.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>Data Structures</h3>
+        </td>
+        <td>
+          <img src="images/courses/hibernate.png" width="300px" />
+          <p>Sachin Kapoor</p>
+          <h3>Hibernate Development</h3>
+        </td>
+      </tr>
+    </table>
+    <br />
+    <h2 align="center"><em>Top Brands where our students are working</em></h2>
+    <hr color="blue" align="center" width="50%" />
+    <br />
+    <table width="100%">
+      <tr align="center">
+        <td>
+          <img src="images/brands/accenture_logo.png" width="100px" />
+        </td>
+        <td>
+          <img src="images/brands/amdocs_logo.png" width="100px" />
+        </td>
+        <td>
+          <img src="images/brands/google_logo.png" width="100px" />
+        </td>
+        <td>
+          <img src="images/brands/hcl_logo.png" width="100px" />
+        </td>
+        <td>
+          <img src="images/brands/infosys_logo.png" width="100px" />
+        </td>
+      </tr>
+    </table>
+    <br />
+    <br />
+    <br />
+    <table width="100%" bgcolor="#D6B10C">
+      <tr align="center">
+        <td><img src="images/logo/site_logos.png" width="150" /></td>
+        <td><h2>Get Our Courses</h2></td>
+        <td><h2>Download App Now</h2></td>
+      </tr>
+      <tr align="center">
+        <td>
+          <br />
+          SCAlive is a premier education <br />
+          institute.SCAlive is a pioneer <br />
+          in providing career-oriented <br />
+          courses to aspiring students <br />
+          and professtional since 1998. <br />
+        </td>
+        <td>
+          <a href="#">C Programming</a> <br />
+          <br />
+          <a href="#">C++ Programming</a> <br />
+          <br />
+          <a href="#">Java Programming</a> <br />
+          <br />
+          <a href="#">Python Programming</a> <br />
+        </td>
+        <td>
+          <a href="#"><img src="images/app/app_store.png" width="150px" /></a>
+          <br />
+          <br />
+          <a href="#"><img src="images/app/google_play.png" width="150px" /></a>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" bgcolor="yellow">
+      <tr align="center">
+        <td>&copy Copyright SCAlive all right reserved.</td>
+        <td>Developed by <a href="#">Ashmit Sharma</a></td>
+      </tr>
+    </table>
+  </body>
+</html>
